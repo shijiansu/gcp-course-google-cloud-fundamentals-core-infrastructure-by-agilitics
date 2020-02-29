@@ -1,1 +1,1 @@
-# gcp-course-google-cloud-fundamentals-core-infrastructure-by-agilitics
+Labs is in QWIKLABS but only with limited time to access
