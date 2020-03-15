@@ -3,9 +3,9 @@
 ![](https://img.shields.io/badge/development%20year-2019-orange)
 ![](https://img.shields.io/badge/license-MIT-lightgrey)
 
-Labs are in QWIKLABS but only with limited time to access.
-
 --------------------------------------------------------------------------------
+
+Labs are in QWIKLABS but only with limited time to access.
 
 - 01. Course Introduction
 - 02. Introducing Google Cloud Platform
@@ -17,3 +17,9 @@ Labs are in QWIKLABS but only with limited time to access.
 - 08. Developing, Deploying, and Monitoring in the Cloud
 - 09. Big Data and Machine Learning in the Cloud
 - 10. Summary and Review
+
+--------------------------------------------------------------------------------
+
+# Execute all tests in project / sub-projects
+
+`/bin/bash run-project-test.sh`
