@@ -20,6 +20,6 @@ Labs are in QWIKLABS but only with limited time to access.
 
 --------------------------------------------------------------------------------
 
-# Execute all tests in project / sub-projects
+# Execute all tests in repo
 
-`/bin/bash run-project-test.sh`
+`/bin/bash run-repo-test.sh`
