@@ -1,7 +1,14 @@
 ![](https://img.shields.io/badge/language-gcp-blue)
 ![](https://img.shields.io/badge/technology-gcp-blue)
 ![](https://img.shields.io/badge/development%20year-2019-orange)
+![](https://img.shields.io/badge/contributor-shijiansu-purple)
 ![](https://img.shields.io/badge/license-MIT-lightgrey)
+
+![](https://img.shields.io/github/languages/top/shijiansu/gcp-course-google-cloud-fundamentals-core-infrastructure-by-agilitics)
+![](https://img.shields.io/github/languages/count/shijiansu/gcp-course-google-cloud-fundamentals-core-infrastructure-by-agilitics)
+![](https://img.shields.io/github/languages/code-size/shijiansu/gcp-course-google-cloud-fundamentals-core-infrastructure-by-agilitics)
+![](https://img.shields.io/github/repo-size/shijiansu/gcp-course-google-cloud-fundamentals-core-infrastructure-by-agilitics)
+![](https://img.shields.io/github/last-commit/shijiansu/gcp-course-google-cloud-fundamentals-core-infrastructure-by-agilitics?color=red)
 
 --------------------------------------------------------------------------------
 
